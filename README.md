@@ -1,7 +1,7 @@
-## 简介
+## Online CSGO Settings
 
-修改于：适用于CSGO几乎所有场景的CFG预设文件——[Purple-CSGO](https://github.com/Purple-CSGO)/[CSGO-Config-Presets](https://github.com/Purple-CSGO/CSGO-Config-Presets) ([用法](https://config.upup.cool/))
+[https://settings.gg/yliu-cs](https://settings.gg/yliu-cs)
 
-## 感谢
+## Acknowledgement
 
 [Purple-CSGO](https://github.com/Purple-CSGO)/[CSGO-Config-Presets](https://github.com/Purple-CSGO/CSGO-Config-Presets)
